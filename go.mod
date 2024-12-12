@@ -12,6 +12,6 @@ require (
 	github.com/shopspring/decimal v1.2.0
 	github.com/spf13/cast v1.3.1
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/crypto v0.3.0
+	golang.org/x/crypto v0.31.0
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
